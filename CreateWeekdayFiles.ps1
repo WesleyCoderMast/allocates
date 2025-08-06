@@ -1,6 +1,6 @@
 # Define start and end dates
 $startDate = Get-Date "2016-07-21"
-$endDate = Get-Date "2016-02-28"
+$endDate = Get-Date "2016-12-28"
 
 # git add .
 
